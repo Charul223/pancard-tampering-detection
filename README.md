@@ -35,7 +35,7 @@ Step 1: Image Preprocessing
 1. Clone the repo:
 ```bash
 git clone https://github.com/your-username/pan-card-tampering.git
-cd pan-card-tampering
+cd pan-card-tampering```
 
 2. Install dependencies
 ```bash
