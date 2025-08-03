@@ -34,17 +34,31 @@ Step 1: Image Preprocessing
 ##  Running the App Locally
 1. Clone the repo:
 ```bash
-`git clone https://github.com/your-username/pan-card-tampering.git`
-`cd pan-card-tampering`
+git clone https://github.com/Charul223/pancard-tampering-detection.git
+cd pan-card-tampering
 ```
 
 2. Install dependencies
 ```bash
-`pip install -r requirements.txt`
+pip install -r requirements.txt
+```
 
 3. Run the app
 ```bash
-`python app.py`
+python app.py
+```
+
+## Requirements (requirements.txt):
+```
+Flask==1.1.1
+imutils==0.5.3
+opencv-python==4.4.0.46
+Pillow==8.0.1
+scikit-image==0.17.2
+```
+
+## Screenshots:
+
 
 
 ## Limitations & Future Work
