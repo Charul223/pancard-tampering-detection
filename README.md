@@ -34,16 +34,16 @@ Step 1: Image Preprocessing
 ##  Running the App Locally
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/pan-card-tampering.git
-cd pan-card-tampering```
+`git clone https://github.com/your-username/pan-card-tampering.git`
+`cd pan-card-tampering`
 
 2. Install dependencies
 ```bash
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3. Run the app
 ```bash
-python app.py
+`python app.py`
 
 
 ## Limitations & Future Work
