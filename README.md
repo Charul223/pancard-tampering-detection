@@ -36,6 +36,7 @@ Step 1: Image Preprocessing
 ```bash
 `git clone https://github.com/your-username/pan-card-tampering.git`
 `cd pan-card-tampering`
+```
 
 2. Install dependencies
 ```bash
