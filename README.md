@@ -58,10 +58,9 @@ scikit-image==0.17.2
 ```
 
 ## Screenshots:
-![Screenshot](home_page.png)
+<img width="1110" height="634" alt="image" src="https://github.com/user-attachments/assets/53b47424-dcad-4caa-851a-0021bcd3ed65" />
 
-![Result](screenshots/result.png)
-
+<img width="1108" height="610" alt="image" src="https://github.com/user-attachments/assets/1996b893-7a9b-40dd-b8e9-5a9e22267584" />
 
 
 ## Limitations & Future Work
