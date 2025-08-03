@@ -58,6 +58,9 @@ scikit-image==0.17.2
 ```
 
 ## Screenshots:
+![Home page](screenshots/home_page.png)
+
+![Result](screenshots/result.png)
 
 
 
